@@ -2,7 +2,7 @@
 - 👀 I’m interested in code, book and game
 - 🌱 I’m currently learning design
 - 💞️ I’m looking to collaborate on Github, Behance
-- 📫 How to reach me: gozlist.site@gmail.com
+- 📫 How to reach me: gozlist.site@gmail.com or https://gozlist.com
 
 <!---
 gozlist/gozlist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
